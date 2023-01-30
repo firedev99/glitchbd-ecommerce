@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/glitchbd/public_html
-    - /bin/cp -R * $DEPLOYPATH #copy all recursively to $DEPLOYPATH
